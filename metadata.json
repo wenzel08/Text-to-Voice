@@ -1,0 +1,6 @@
+{
+  "name": "Blood Donor Speech Generator",
+  "description": "Generate high-quality spoken audio from blood donation messages with custom voices, speed adjustment, and a real-time speech play-along viewer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
